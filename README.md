@@ -41,12 +41,12 @@
     - **Репозитории:** взаимодействие с базой данных через Spring Data JPA.
 
 ## ✨ Рекомендую посмотреть другие проекты:
-1. SLF4J
-2. ELK
-3. Kafka
-4. Starter
-5. Kubernetes
-6. Mongo(в работе)
+1. [SLF4J](https://github.com/AnastasiyaVetrova/SLF4J)
+2. [ELK](https://github.com/AnastasiyaVetrova/ELK)
+3. [Kafka](https://github.com/AnastasiyaVetrova/Kafka)
+4. [Starter](https://github.com/AnastasiyaVetrova/Starter)
+5. [Kubernetes](https://github.com/AnastasiyaVetrova/Kubernetes)
+6. [Mongo(в работе)](https://github.com/AnastasiyaVetrova/Mongo)
 
 ## 🤝 Контакты
 Если у вас есть вопросы или предложения, вы можете связаться со мной:
